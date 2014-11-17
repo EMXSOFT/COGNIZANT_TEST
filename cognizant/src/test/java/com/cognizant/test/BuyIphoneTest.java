@@ -22,7 +22,7 @@ import com.cognizant.utils.Constants;
 
 public class BuyIphoneTest {
     	
-	//public static void main(String[] args) {
+	
 	@Test  
 	public void buyIphone() throws InterruptedException{
 	WebDriver driver = new FirefoxDriver();
