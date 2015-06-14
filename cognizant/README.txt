@@ -11,4 +11,6 @@
  
  4.Execute project with Maven or Junit.(BuyIphoneTest.java is the test Class).
  
+ Note. I am making additional comments to this in order to make chekcs 
+ 
  
